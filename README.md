@@ -73,7 +73,7 @@ function isInvalidEmail(email) {
 
 - Website - [Iwalewa Fawaz](https://iwaola.me)
 - Frontend Mentor - [@IwalewaFawaz](https://www.frontendmentor.io/profile/IwalewaFawaz)
-- Twitter - [@IwalewaFawaz](https://twitter.com/IwalewaFawaz)
+- Twitter - [@iwalewa_fawaz](https://x.com/iwalewa_fawaz)
 
 ## Acknowledgments
 
